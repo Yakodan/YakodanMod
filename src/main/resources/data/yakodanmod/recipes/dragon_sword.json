@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "S"
+  ],
+  "key": {
+    "#": {
+      "item": "yakodanmod:dragon_claw"
+    },
+    "S": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "yakodanmod:dragon_sword"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "P#P",
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "yakodanmod:dragon_claw"
+    },
+    "P": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "yakodanmod:dragon_stone"
+  }
+}
